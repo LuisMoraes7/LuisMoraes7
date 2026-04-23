@@ -19,15 +19,6 @@ Atualmente estudo e aplico conceitos de:
 Tenho experiência prática com manipulação, organização e estruturação de dados, sempre buscando garantir qualidade, consistência e escalabilidade nas análises.
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisMoraes7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisMoraes7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">🛠️ Tecnologias & Ferramentas</h3>
 
 <div align="center">
